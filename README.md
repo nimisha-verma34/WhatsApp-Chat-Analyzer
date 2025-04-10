@@ -1,7 +1,5 @@
 # Wanalyicia - WhatsApp Chat Analyzer
 
-![Image](https://github.com/user-attachments/assets/bad36894-81c3-431d-b69e-e977ca3bd076)
-
 ## 📜 Table of Contents
 
 - [Introduction](#-introduction)
