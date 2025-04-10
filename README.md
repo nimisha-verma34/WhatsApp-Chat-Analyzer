@@ -1,7 +1,5 @@
 # Wanalyicia - WhatsApp Chat Analyzer
 
-![Demo](https://github.com/supriya811106/WhatsApp-Chat-Analyzer-App/assets/89856408/3eb5eff6-5884-42b8-acc6-a2c316e53500)
-
 ## 📜 Table of Contents
 
 - [Introduction](#-introduction)
@@ -79,8 +77,8 @@ Ensure your environment has the following packages:
 
 1. **Clone** the repository:
    ```bash
-   git clone https://github.com/supriya811106/WhatsApp-Chat-Analyzer-App.git
-   cd WhatsApp-Chat-Analyzer-App
+   git clone https://github.com/nimisha-verma34/WhatsApp-Chat-Analyzer.git
+   cd WhatsApp-Chat-Analyzer
 2. **Environment Setup**:
    ```bash
    python -m venv venv
@@ -104,7 +102,3 @@ We believe in the power of collective intelligence:
 
 Remember to regularly sync your fork with the upstream repository and ensure all unit tests pass before submitting a PR!
 
-## ✉ Feedback & Contact
-Every piece of feedback helps to create a better experience. Share your thoughts, critiques, or even praises:
-
-Email: supriyasuman0708@gmail.com
